@@ -1,0 +1,136 @@
+/*hoja de estilos de la clase 2 Web y patrones */
+
+/*id... #xxxx */
+
+#encabezado{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 8%;
+    width: 100%;
+    background-color: #171A21;
+    color: white;
+}
+
+#encabezado h1{
+    display: inline
+}
+#menu{
+    position: absolute;
+    top: 8%;
+    left: 0;
+    height: 4%;
+    width: 100%;
+    background-color: #3A6390;
+    color: white;
+}
+
+#menu a {
+    background-color: #41B5F4;
+    color: black;
+}
+#menu a:hover {
+    background-color: green;
+    color: white;
+}
+#barralateral{
+    position: absolute;
+    top: 12%;
+    left: 0;
+    height: 200%;
+    width: 20%;
+    background-color: #184252;
+    padding: 10px;
+}
+#barralateral p{
+    color: white;
+}
+
+
+#contenido{
+    position: absolute;
+    top: 12%;
+    left: 20%;
+    height: 81%;
+    width: 80%;
+    background-color: #3B6390;
+    padding: 10px;
+    overflow: auto
+}
+#contenido h2{
+    color: white;
+}
+#contenido p{
+    color: white;
+}
+#contenido header {
+    color: white;
+}
+#piepagina{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 4%;
+    width: 100%;
+    background-color: #41B5F4;
+    text-align: center;
+    overflow: auto
+}
+#pagina2 {
+    background-color: black;
+}
+#pagina2 h1 {
+    color: white;
+}
+#pagina2 p{
+    color: white;
+}
+
+#pagina3 {
+    background-color: #804AFF;
+}
+#pagina3 h1 {
+    color: white;
+}
+#pagina3 p{
+    color: white;
+}
+
+#pagina4 {
+    background-color: #739226;
+}
+#pagina4 h1 {
+    color: white;
+}
+#pagina4 p{
+    color: white;
+}
+
+#pagina5 {
+    background-color: #932708;
+}
+#pagina5 h1 {
+    color: white;
+}
+#pagina5 p{
+    color: white;
+}
+#pagina6 {
+    background-color: black;
+}
+#pagina6 h1 {
+    color: white;
+}
+#pagina6 p{
+    color: white;
+}
+
+#pagina8 {
+    background-color: #4C2B32;
+}
+#pagina8 h1 {
+    color: white;
+}
+#pagina8 p{
+    color: white;
+}
